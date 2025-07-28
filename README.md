@@ -2,6 +2,7 @@
 <img width="50" alt="reactjs" src="https://github.com/user-attachments/assets/a7937a92-5443-4bf2-aa5e-e4cc158ca550" />
 <img width="50" alt="vite" src="https://github.com/user-attachments/assets/fdadc46a-36b4-4ed8-8bc8-2d313f0aa6e8" />
 <img width="50" alt="appwrite" src="https://github.com/user-attachments/assets/cdc4bbb7-add9-4c24-a089-0020dc7a133b" />
+<img width="50" height="552" alt="tailwind" src="https://github.com/user-attachments/assets/4dcea07e-ab49-4eb2-aced-aab2e7248c01" />
 
 
 ## Chapters brief
@@ -40,5 +41,5 @@
     We use useState hook in react to manage the variables which can later be changed so that without re-rendering same page again and again only the changed values or components will be re-rendered which helps in acheiving Single Page Application.
 
 5. ### Tailwind CSS + Vite
-    We can use Tailwind CSS in our React or Vite project to quickly style the components.
+    We can use Tailwind CSS in our React or Vite project to quickly style the components.<br/>
     Installation + Docs ->  https://tailwindcss.com/docs/installation/using-vite
