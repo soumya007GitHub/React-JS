@@ -7,12 +7,12 @@
 ## Chapters brief
 
 1. ### Introduction - States the difference between the React's CRA - Create React App and Vite<br>
-  ``npx create-react-app my-app`` - React JS's CRA (Comes with node modules installed)<br>
-  ``npm create vite@latest my-app -- --template react`` - Vite (Doesn't come with node mules installed)
+    ``npx create-react-app my-app`` - React JS's CRA (Comes with node modules installed)<br>
+    ``npm create vite@latest my-app -- --template react`` - Vite (Doesn't come with node mules installed)
 
-    ### Commands to run the applications
-    1. CRA - ``npm run start``
-    2. Vite - ``npm run dev``
+      ### Commands to run the applications
+      1. CRA - ``npm run start``
+      2. Vite - ``npm run dev``
 
 2. ### File Structure
    1. Node Modules - We have node modules which are used by the libraries and generally ignored while pushong code to github.
