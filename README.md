@@ -11,5 +11,5 @@
   ``npm create vite@latest my-app -- --template react`` - Vite (Doesn't come with node mules installed)
 
     ### Commands to run the applications
-    1. CRA - npm run start
-    2. Vite - npm run dev
+    1. CRA - ``npm run start``
+    2. Vite - ``npm run dev``
