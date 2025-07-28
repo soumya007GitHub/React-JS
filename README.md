@@ -23,15 +23,15 @@
    6. package-lock.json - contains additional details and specific version of libraries installed.
 
 3. ### React Internal Working
-  React.js utilizes the createElement function internally to construct its Virtual DOM. This function serves as the foundational method for creating React elements, which are lightweight JavaScript objects representing the structure and content of the user interface.
-  ``import { createElement } from 'react';
+    React.js utilizes the createElement function internally to construct its Virtual DOM. This function   serves as the foundational method for creating React elements, which are lightweight JavaScript   objects representing the structure and content of the user interface.
+    ``import { createElement } from 'react';
 
-    function Greeting({ name }) {
-      return createElement(
-        'h1',  //tagName
-        { className: 'greeting' },  //attributes
-        'Hello ',  //content
-        createElement('i', null, name),
-        '. Welcome!'
-      );
-    }``
+      function Greeting({ name }) {
+        return createElement(
+          'h1',  //tagName
+          { className: 'greeting' },  //attributes
+          'Hello ',  //content
+          createElement('i', null, name),
+          '. Welcome!'
+        );
+      }``
