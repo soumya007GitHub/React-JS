@@ -36,3 +36,5 @@
         );
       }
 ```
+4. ### useState in React
+    We use useState hook in react to manage the variables which can later be changed so that without re-rendering same page again and again only the changed values or components will be re-rendered which helps in acheiving Single Page Application.
