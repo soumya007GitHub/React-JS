@@ -43,4 +43,7 @@
 
 5. ### Tailwind CSS + Vite
     We can use Tailwind CSS in our React or Vite project to quickly style the components.<br/>
-    Installation + Docs ->  https://tailwindcss.com/docs/installation/using-vite
+    Installation + Docs -> <a href="https://tailwindcss.com/docs/installation/using-vite" target="_blank">https://tailwindcss.com/docs/installation/using-vite</a>
+
+6. ### Props in React
+    We can pass data from one component to another using props in React.
