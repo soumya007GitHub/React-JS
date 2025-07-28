@@ -47,3 +47,5 @@
 
 6. ### Props in React
     We can pass data from one component to another using props in React.
+
+7. ### Task - BackgroundColor change using Tailwind with props from React
