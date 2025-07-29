@@ -49,3 +49,7 @@
     We can pass data from one component to another using props in React.
 
 7. ### Task - BackgroundColor change using Tailwind with props from React
+    <em>Covered useState</em>
+
+8. ### Task - Password generator and copy to clipboard
+    <em>Covered useState, useEffect, useCallback, useRef</em>
