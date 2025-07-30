@@ -53,3 +53,6 @@
 
 8. ### Task - Password generator and copy to clipboard
     <em>Covered useState, useEffect, useCallback, useRef</em>
+
+9. ### Task - Currency Converter
+    <em>Covered useState, UseEffect, Custom Hooks(Mainly used if useEffect+Hooks are used in most of the files so without typing same thing again and again we can modularize the code to use it anywhere)</em>
