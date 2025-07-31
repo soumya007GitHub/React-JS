@@ -56,3 +56,6 @@
 
 9. ### Task - Currency Converter
     <em>Covered useState, UseEffect, Custom Hooks(Mainly used if useEffect+Hooks are used in most of the files so without typing same thing again and again we can modularize the code to use it anywhere)</em>
+
+10. ### Task - Fetch Data & Display in Cards
+    <em>Covered useState, useEffect, Fetch API, Props, Components, JSX</em>
