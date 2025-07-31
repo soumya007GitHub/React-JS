@@ -59,3 +59,6 @@
 
 10. ### Task - Fetch Data & Display in Cards
     <em>Covered useState, useEffect, Fetch API, Props, Components, JSX</em>
+
+11. ### Task - ToDo App
+    <em>Covered components, props, useState, useEffect, Conditional Rendering, LocalStorage API</em>
